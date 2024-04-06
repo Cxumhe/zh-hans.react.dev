@@ -3,7 +3,7 @@ title: 迁移状态逻辑至 Reducer 中
 translators:
   - qinhua
   - yyyang1996
-  - QC-L
+  - QC-Lq
 ---
 
 <Intro>
